@@ -1,12 +1,12 @@
 package com.myeongwoo.roccadipapa.domain.service;
 
+import com.myeongwoo.roccadipapa.application.request.UserSignInRequest;
+import com.myeongwoo.roccadipapa.application.request.UserSignupRequest;
 import com.myeongwoo.roccadipapa.core.security.JwtTokenProvider;
 import com.myeongwoo.roccadipapa.domain.exception.UserAlreadyExistsException;
 import com.myeongwoo.roccadipapa.domain.exception.UserNotFoundException;
 import com.myeongwoo.roccadipapa.domain.model.entity.User;
 import com.myeongwoo.roccadipapa.domain.model.repository.UserRepository;
-import com.springboot.template.application.request.UserSignInRequest;
-import com.springboot.template.application.request.UserSignupRequest;
 import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
