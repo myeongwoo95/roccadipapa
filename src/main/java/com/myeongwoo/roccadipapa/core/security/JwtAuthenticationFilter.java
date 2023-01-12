@@ -1,7 +1,7 @@
 package com.myeongwoo.roccadipapa.core.security;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import com.springboot.template.core.response.ErrorResponse;
+import com.myeongwoo.roccadipapa.core.response.ErrorResponse;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.ExpiredJwtException;
 import io.jsonwebtoken.MalformedJwtException;

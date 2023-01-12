@@ -1,4 +1,4 @@
-package com.springboot.template.application.request;
+package com.myeongwoo.roccadipapa.application.request;
 
 import lombok.Data;
 

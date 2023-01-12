@@ -1,4 +1,4 @@
-package com.springboot.template.domain.model.entity;
+package com.myeongwoo.roccadipapa.domain.model.entity;
 
 import com.springboot.template.application.request.UserSignupRequest;
 import com.springboot.template.domain.model.enums.UserRole;
