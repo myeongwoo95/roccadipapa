@@ -1,6 +1,6 @@
-package com.springboot.template.core.exception;
+package com.myeongwoo.roccadipapa.core.exception;
 
-import com.springboot.template.core.response.ErrorResponse;
+import com.myeongwoo.roccadipapa.core.response.ErrorResponse;
 import org.hibernate.exception.ConstraintViolationException;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;

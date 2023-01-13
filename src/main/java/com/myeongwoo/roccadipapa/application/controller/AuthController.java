@@ -1,9 +1,9 @@
 package com.myeongwoo.roccadipapa.application.controller;
 
+import com.myeongwoo.roccadipapa.application.request.UserSignInRequest;
+import com.myeongwoo.roccadipapa.application.request.UserSignupRequest;
+import com.myeongwoo.roccadipapa.application.response.UserSignInResponse;
 import com.myeongwoo.roccadipapa.domain.service.AuthService;
-import com.springboot.template.application.request.UserSignInRequest;
-import com.springboot.template.application.request.UserSignupRequest;
-import com.springboot.template.application.response.UserSignInResponse;
 import io.swagger.annotations.ApiOperation;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;

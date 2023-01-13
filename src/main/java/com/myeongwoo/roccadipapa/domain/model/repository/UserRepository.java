@@ -1,6 +1,6 @@
-package com.springboot.template.domain.model.repository;
+package com.myeongwoo.roccadipapa.domain.model.repository;
 
-import com.springboot.template.domain.model.entity.User;
+import com.myeongwoo.roccadipapa.domain.model.entity.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

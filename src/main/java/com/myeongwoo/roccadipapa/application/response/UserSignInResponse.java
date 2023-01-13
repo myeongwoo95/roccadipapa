@@ -1,4 +1,4 @@
-package com.springboot.template.application.response;
+package com.myeongwoo.roccadipapa.application.response;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

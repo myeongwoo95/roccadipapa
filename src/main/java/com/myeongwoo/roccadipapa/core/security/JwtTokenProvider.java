@@ -1,6 +1,6 @@
 package com.myeongwoo.roccadipapa.core.security;
 
-import com.springboot.template.domain.model.enums.UserRole;
+import com.myeongwoo.roccadipapa.domain.model.enums.UserRole;
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

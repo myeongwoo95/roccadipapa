@@ -1,4 +1,4 @@
-package com.springboot.template.core.response;
+package com.myeongwoo.roccadipapa.core.response;
 
 import lombok.Data;
 import org.springframework.http.HttpStatus;

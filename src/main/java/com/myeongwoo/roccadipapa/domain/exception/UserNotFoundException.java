@@ -1,4 +1,4 @@
-package com.springboot.template.domain.exception;
+package com.myeongwoo.roccadipapa.domain.exception;
 
 public class UserNotFoundException extends RuntimeException {
     public UserNotFoundException() {
