@@ -9,7 +9,8 @@ import java.util.List;
 @RestController
 public class TestController {
     @GetMapping("/hello")
-    public List<String> Hello(){
-        return Arrays.asList("서버 포트는 8080", "리액트 포트는 3000");
+    public String Hello(){
+        System.out.println("am i working?");
+        return "hello world";
     }
 }

@@ -29,5 +29,4 @@ spring:
 
 app:
   jwtExpirationMs: 86400000
-  jwtSecret: JWT_SECRET
-  test : test
+  jwtSecret: JWT_SECRET_TEST_1234_1aosjdfioajsidfojjasdfjwejfijoasdfioajsodfojiwjioefjow

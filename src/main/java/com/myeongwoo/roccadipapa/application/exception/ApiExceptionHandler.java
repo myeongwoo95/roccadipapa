@@ -1,8 +1,8 @@
-package com.springboot.template.application.exception;
+package com.myeongwoo.roccadipapa.application.exception;
 
-import com.springboot.template.core.response.ErrorResponse;
-import com.springboot.template.domain.exception.UserAlreadyExistsException;
-import com.springboot.template.domain.exception.UserNotFoundException;
+import com.myeongwoo.roccadipapa.core.response.ErrorResponse;
+import com.myeongwoo.roccadipapa.domain.exception.UserAlreadyExistsException;
+import com.myeongwoo.roccadipapa.domain.exception.UserNotFoundException;
 import org.springframework.core.Ordered;
 import org.springframework.core.annotation.Order;
 import org.springframework.http.HttpStatus;
